@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 075a4861893f1c14f951ba795052ae36
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1_GRAY 1
+    100002: 1_GRAY 2
+    100004: 1_GRAY 3
+    100006: 1_GRAY 4
+    100008: 1_GRAY 5
+    100010: 1_INSIDE
+    100012: 1_OUTSIDE
+    100014: 1_PANEL 1
+    100016: 1_PANEl 2
+    100018: 1_YELLOW
+    100020: 2_ANT_DOWN_1
+    100022: 2_ANT_DOWN_2
+    100024: 2_ANT_DOWN_3
+    100026: 2_ANT_UP_1
+    100028: 2_ANT_UP_2
+    100030: 2_ANT_UP_3
+    100032: 3_WHITE_1
+    100034: 3_WHITE_2
+    100036: 3_WHITE_3
+    100038: 3_WHITE_4
+    100040: 3_WHITE_5
+    100042: 3_WHITE_6
+    100044: 3_WHITE_7
+    100046: 3_WHITE_8
+    100048: 3_WHITE_9
+    100050: 4_DOOR
+    100052: //RootNode
+    100054: OPTICA
+    100056: Sun
+    400000: 1_GRAY 1
+    400002: 1_GRAY 2
+    400004: 1_GRAY 3
+    400006: 1_GRAY 4
+    400008: 1_GRAY 5
+    400010: 1_INSIDE
+    400012: 1_OUTSIDE
+    400014: 1_PANEL 1
+    400016: 1_PANEl 2
+    400018: 1_YELLOW
+    400020: 2_ANT_DOWN_1
+    400022: 2_ANT_DOWN_2
+    400024: 2_ANT_DOWN_3
+    400026: 2_ANT_UP_1
+    400028: 2_ANT_UP_2
+    400030: 2_ANT_UP_3
+    400032: 3_WHITE_1
+    400034: 3_WHITE_2
+    400036: 3_WHITE_3
+    400038: 3_WHITE_4
+    400040: 3_WHITE_5
+    400042: 3_WHITE_6
+    400044: 3_WHITE_7
+    400046: 3_WHITE_8
+    400048: 3_WHITE_9
+    400050: 4_DOOR
+    400052: //RootNode
+    400054: OPTICA
+    400056: Sun
+    2100000: Material
+    2100002: No Name
+    2100004: Material.017
+    2100006: Material.011
+    2100008: Material.016
+    2100010: AYellow
+    2100012: Material.001
+    2100014: Material.003
+    2100016: Material.002
+    2300000: 1_GRAY 1
+    2300002: 1_GRAY 2
+    2300004: 1_GRAY 3
+    2300006: 1_GRAY 4
+    2300008: 1_GRAY 5
+    2300010: 1_INSIDE
+    2300012: 1_OUTSIDE
+    2300014: 1_PANEL 1
+    2300016: 1_PANEl 2
+    2300018: 1_YELLOW
+    2300020: 2_ANT_DOWN_1
+    2300022: 2_ANT_DOWN_2
+    2300024: 2_ANT_DOWN_3
+    2300026: 2_ANT_UP_1
+    2300028: 2_ANT_UP_2
+    2300030: 2_ANT_UP_3
+    2300032: 3_WHITE_1
+    2300034: 3_WHITE_2
+    2300036: 3_WHITE_3
+    2300038: 3_WHITE_4
+    2300040: 3_WHITE_5
+    2300042: 3_WHITE_6
+    2300044: 3_WHITE_7
+    2300046: 3_WHITE_8
+    2300048: 3_WHITE_9
+    2300050: 4_DOOR
+    2300052: OPTICA
+    3300000: 1_GRAY 1
+    3300002: 1_GRAY 2
+    3300004: 1_GRAY 3
+    3300006: 1_GRAY 4
+    3300008: 1_GRAY 5
+    3300010: 1_INSIDE
+    3300012: 1_OUTSIDE
+    3300014: 1_PANEL 1
+    3300016: 1_PANEl 2
+    3300018: 1_YELLOW
+    3300020: 2_ANT_DOWN_1
+    3300022: 2_ANT_DOWN_2
+    3300024: 2_ANT_DOWN_3
+    3300026: 2_ANT_UP_1
+    3300028: 2_ANT_UP_2
+    3300030: 2_ANT_UP_3
+    3300032: 3_WHITE_1
+    3300034: 3_WHITE_2
+    3300036: 3_WHITE_3
+    3300038: 3_WHITE_4
+    3300040: 3_WHITE_5
+    3300042: 3_WHITE_6
+    3300044: 3_WHITE_7
+    3300046: 3_WHITE_8
+    3300048: 3_WHITE_9
+    3300050: 4_DOOR
+    3300052: OPTICA
+    4300000: 4_DOOR
+    4300002: 3_WHITE_6
+    4300004: 1_INSIDE
+    4300006: 3_WHITE_9
+    4300008: OPTICA
+    4300010: 3_WHITE_8
+    4300012: 3_WHITE_5
+    4300014: 1_GRAY 4
+    4300016: 2_ANT_UP_2
+    4300018: 2_ANT_UP_1
+    4300020: 1_GRAY 1
+    4300022: 1_GRAY 2
+    4300024: 1_OUTSIDE
+    4300026: 3_WHITE_3
+    4300028: 3_WHITE_2
+    4300030: 3_WHITE_1
+    4300032: 2_ANT_UP_3
+    4300034: 2_ANT_DOWN_1
+    4300036: 2_ANT_DOWN_2
+    4300038: 2_ANT_DOWN_3
+    4300040: 1_GRAY 5
+    4300042: 3_WHITE_4
+    4300044: 3_WHITE_7
+    4300046: 1_GRAY 3
+    4300048: 1_YELLOW
+    4300050: 1_PANEL 1
+    4300052: 1_PANEl 2
+    7400000: Scene
+    9500000: //RootNode
+    10800000: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
